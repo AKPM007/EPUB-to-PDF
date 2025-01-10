@@ -12,7 +12,7 @@ import subprocess
 import logging
 
 # get token from token.conf
-TOKEN = open("token.conf", "r").read().strip()
+TOKEN = open("token.conf", "7828527701:AAHyELmGZhrnG8esnyj90hgnyYfNIOBEBIA").read().strip()
 
 logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO
@@ -73,3 +73,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

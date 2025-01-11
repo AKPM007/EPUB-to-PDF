@@ -12,7 +12,7 @@ import subprocess
 import logging
 
 # get token from token.conf
-TOKEN = open("token.conf", "7203340734:AAFx-u-EYh2vd81rBoVJ59u6TmvjDXnI2z4").read().strip()
+TOKEN = open("token.conf", "7111204562:AAHc4_p2_5ubOXckg1p4BHzc1sIP9IgvV9A").read().strip()
 
 logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO
